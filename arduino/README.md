@@ -1,6 +1,19 @@
-# Simple ABC Cipher
+# Simple ABC Cipher - Arduino version
 
-A simple cipher originally created for an arduino project. It uses three frequencies and three characters to encode.
+The arduino version of the ABC cipher.
+
+## Components needed (feel free to change!)
+
+* Arduino UNO
+* 4 Buttons
+* 3 LED's
+* 6 1mΩ Resistors
+* A lot of cables
+* Potentiometer
+
+## Example Circuit
+
+![]()
 
 ## Encoded-characters Table
 | Frequency   | Characters       | Output |
