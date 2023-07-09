@@ -1,4 +1,5 @@
 # Simple ABC Cipher
+### Now using Modern JSON API!
 
 A simple cipher originally created for an arduino project. It uses three frequencies and three characters to encode.
 
@@ -31,6 +32,6 @@ A simple cipher originally created for an arduino project. It uses three frequen
 | `2` | 'BA' | X |
 | `2` | 'BC' | Y |
 | `2` | 'CA' | Z |
-| `2` | 'CB' | Space |
+| `2` | 'CB' | Space |'
 
 > *Note:* This table can change at any moment
