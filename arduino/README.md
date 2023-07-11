@@ -1,13 +1,14 @@
 # Simple ABC Cipher - Arduino version
 
 The arduino version of the ABC cipher.
+> Added PT-BR translated project for educational purposes
 
 ## Components needed (feel free to change!)
 
 * Arduino UNO
 * 4 Buttons
 * 3 LED's
-* 6 1mΩ Resistors
+* 8 1mΩ Resistors
 * A lot of cables
 * Potentiometer
 
