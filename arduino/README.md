@@ -14,7 +14,7 @@ The arduino version of the ABC cipher.
 
 ## Example Circuit
 
-![](https://github.com/tioscobs/simple-abc-cipher/blob/main/arduino/example/circuit.png)
+![](https://github.com/tioscobs/simple-abc-cipher/blob/main/arduino/example/circuit2.png)
 
 ## Encoded-characters Table
 | Frequency   | Characters       | Output |
