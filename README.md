@@ -1,7 +1,11 @@
 # Simple ABC Cipher
-### Now using Modern JSON API!
+> Now using Modern JSON API!
 
 A simple cipher originally created for an arduino project. It uses three frequencies and three characters to encode.
+
+## How to use the console version
+
+First, you download [cipherconsole](https://github.com/tioscobs/simple-abc-cipher/blob/main/cipherconsole.exe) and [cipherjson](https://github.com/tioscobs/simple-abc-cipher/blob/main/cipher.json). Then just run cipherconsole.exe and be happy!
 
 ## Encoded-characters Table
 | Frequency   | Characters       | Output |
