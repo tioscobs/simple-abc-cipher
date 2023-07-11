@@ -5,7 +5,7 @@ A simple cipher originally created for an arduino project. It uses three frequen
 
 ## How to use the console version
 
-First, you download [cipherconsole](https://github.com/tioscobs/simple-abc-cipher/blob/main/cipherconsole.exe) and [cipherjson](https://github.com/tioscobs/simple-abc-cipher/blob/main/cipher.json). Then just run cipherconsole.exe and be happy!
+First, you download <a href="cipherconsole.exe" download>cipherconsole</a> and <a href="cipher.json" download>cipherjson</a>. Then just run cipherconsole.exe and be happy!
 
 ## Encoded-characters Table
 | Frequency   | Characters       | Output |
